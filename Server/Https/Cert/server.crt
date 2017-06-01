@@ -1,0 +1,63 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=Tianjin, O=vvchens
+        Validity
+            Not Before: Jun  1 13:24:48 2017 GMT
+            Not After : Jun  1 13:24:48 2018 GMT
+        Subject: C=CN, ST=Tianjin, O=vvchens, CN=xiaoyue34561.vicp.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (512 bit)
+                Modulus (512 bit):
+                    00:ec:62:95:b7:84:97:23:e2:97:ce:20:1e:97:f6:
+                    b0:95:7b:38:b0:42:10:9c:b8:78:1d:59:f7:c7:a6:
+                    04:72:ac:8e:65:f6:24:2c:05:c9:e9:b3:e3:6d:4b:
+                    b2:b2:06:2a:e6:7e:b4:e2:26:d4:60:dc:97:12:db:
+                    0d:7c:2a:0d:c1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                56:08:E5:2F:61:5D:EC:1C:1C:F8:3A:B5:D2:29:3F:C7:74:D0:CF:8D
+            X509v3 Authority Key Identifier: 
+                keyid:89:57:B8:7B:5E:7A:63:28:15:91:76:7D:44:34:31:00:4E:A7:DE:F2
+
+    Signature Algorithm: sha1WithRSAEncryption
+        31:7c:4f:3c:b4:38:c2:76:4a:b2:76:b0:b1:ae:a1:e7:61:4b:
+        4e:9f:4b:ef:1f:95:e5:64:c5:4f:3f:53:f4:58:30:ce:67:bb:
+        e9:39:0c:0a:99:99:80:cb:b4:40:30:88:b7:f3:c4:60:77:c1:
+        9c:f5:63:e9:a5:89:8d:c6:ea:36:3b:35:66:3d:97:1d:bb:aa:
+        85:51:9b:97:3d:6d:64:a2:aa:3d:94:07:e5:d5:0f:85:e2:08:
+        13:80:48:c1:92:1c:d4:3c:d5:f4:e7:89:dd:1c:97:68:26:64:
+        2e:e3:db:6c:e2:8f:92:c4:fc:6b:0b:0d:21:25:ed:88:e1:ee:
+        44:db:59:7b:51:29:b6:60:6e:3b:55:16:7b:ba:0f:b5:40:40:
+        2f:d5:94:1e:19:a6:44:1c:b0:10:31:c4:a3:97:3f:dd:b6:53:
+        51:35:54:f0:bb:5e:d0:7d:5c:01:db:a7:3c:e1:16:08:bc:1f:
+        fc:1f:6b:0a:ef:c7:f3:1e:6d:94:b6:d3:eb:f2:d0:42:c2:38:
+        58:03:cc:bb:71:2a:f7:49:5c:70:fd:b7:e1:ef:8e:f8:c5:c1:
+        af:d2:6f:ee:9e:32:59:65:21:93:f5:49:78:5b:72:d3:40:f5:
+        2c:fa:6c:a6:91:ec:a0:59:f6:9d:47:61:40:40:d8:b2:c9:3f:
+        2f:07:bf:46
+-----BEGIN CERTIFICATE-----
+MIICsDCCAZigAwIBAgIBATANBgkqhkiG9w0BAQUFADAxMQswCQYDVQQGEwJDTjEQ
+MA4GA1UECBMHVGlhbmppbjEQMA4GA1UEChMHdnZjaGVuczAeFw0xNzA2MDExMzI0
+NDhaFw0xODA2MDExMzI0NDhaMFExCzAJBgNVBAYTAkNOMRAwDgYDVQQIEwdUaWFu
+amluMRAwDgYDVQQKEwd2dmNoZW5zMR4wHAYDVQQDExV4aWFveXVlMzQ1NjEudmlj
+cC5uZXQwXDANBgkqhkiG9w0BAQEFAANLADBIAkEA7GKVt4SXI+KXziAel/awlXs4
+sEIQnLh4HVn3x6YEcqyOZfYkLAXJ6bPjbUuysgYq5n604ibUYNyXEtsNfCoNwQID
+AQABo3sweTAJBgNVHRMEAjAAMCwGCWCGSAGG+EIBDQQfFh1PcGVuU1NMIEdlbmVy
+YXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUVgjlL2Fd7Bwc+Dq10ik/x3TQz40w
+HwYDVR0jBBgwFoAUiVe4e156YygVkXZ9RDQxAE6n3vIwDQYJKoZIhvcNAQEFBQAD
+ggEBADF8Tzy0OMJ2SrJ2sLGuoedhS06fS+8fleVkxU8/U/RYMM5nu+k5DAqZmYDL
+tEAwiLfzxGB3wZz1Y+mliY3G6jY7NWY9lx27qoVRm5c9bWSiqj2UB+XVD4XiCBOA
+SMGSHNQ81fTnid0cl2gmZC7j22zij5LE/GsLDSEl7Yjh7kTbWXtRKbZgbjtVFnu6
+D7VAQC/VlB4ZpkQcsBAxxKOXP922U1E1VPC7XtB9XAHbpzzhFgi8H/wfawrvx/Me
+bZS20+vy0ELCOFgDzLtxKvdJXHD9t+HvjvjFwa/Sb+6eMlllIZP1SXhbctNA9Sz6
+bKaR7KBZ9p1HYUBA2LLJPy8Hv0Y=
+-----END CERTIFICATE-----
